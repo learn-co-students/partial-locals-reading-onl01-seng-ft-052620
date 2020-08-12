@@ -1,7 +1,7 @@
 # Partials with Locals
 
 ## Objectives
-
+##Nothing to change
 1. Use the `locals` keyword
 2. Understand why using instance variables in partials is non-optimal
 3. Use a partial while rendering a collection
